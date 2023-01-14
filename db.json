@@ -5,9 +5,13 @@
   "description": "This is a movie about Batman",
   "director": "Matt Reeves",
   "actors": [{
-    "firstName": "Robert",
-    "lastName": "Pattinson"
-     }
+              "firstName": "Robert",
+              "lastName": "Pattinson"
+             },
+             {
+              "firstName": "Zoë",
+              "lastName": "Kravitz"
+             }
     ]
   }
  ]
