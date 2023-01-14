@@ -1,16 +1,16 @@
 {
  "movies":[
   {"id": 1,
-  "title": "The Batman",
-  "description": "This is a movie about Batman",
-  "director": "Matt Reeves",
+  "title": "Little Women",
+  "description": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.",
+  "director": "Greta Gerwig",
   "actors": [{
-              "firstName": "Robert",
-              "lastName": "Pattinson"
+              "firstName": "Emma",
+              "lastName": "Watson"
              },
              {
-              "firstName": "Zoë",
-              "lastName": "Kravitz"
+              "firstName": "Saoirse",
+              "lastName": "Ronan"
              }
     ]
   }
