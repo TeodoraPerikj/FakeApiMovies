@@ -4,7 +4,11 @@
   "title": "The Batman",
   "description": "This is a movie about Batman",
   "director": "Matt Reeves",
-  "actors": "Robert Pattinson"
+  "actors": [{
+    "firstName": "Robert",
+    "lastName": "Pattinson"
+     }
+    ]
   }
  ]
 }
